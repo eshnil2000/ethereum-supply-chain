@@ -1,5 +1,5 @@
 # Ethereum Supply Chain Demo
-
+https://medium.freecodecamp.org/how-to-build-a-car-manufacturing-supply-chain-system-using-ethereum-cbb87144cde5
 This project is a simple supply chain application that records transactions on ethereum.
 It intends to be very simple and generic, and we base the main example on car manufacturing.
 The functionality is provided by two Smart Contracts:
